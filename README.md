@@ -66,13 +66,17 @@
 <br />
 ```
 
+![Logo](https://i.ibb.co/SdgyfMd/html3.jpg)
+
 ```html
 <hr />
 ```
 
-### Strong and Small tag
+### Text formatting tag
 
 ```html
 <strong>I am Strong 💪</strong>
 <small>I am smol 😔</small>
+<mark>mark me</mark>
+<del>please, do not write off me :(</del>
 ```
