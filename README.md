@@ -42,7 +42,7 @@
 
 ```
 
-### Heading tags
+### Header tags
 
 ```html
 <h1>I am h1</h1>
@@ -52,4 +52,27 @@
 <h5>I am h5</h5>
 <h6>I am h6</h6>
 ```
+![Logo](https://i.ibb.co/QYsxpBP/html4.jpg)
 
+### Paragraph
+
+```html
+<p>I am a paragraph</p>
+```
+
+### Break and Horizontal rule tag
+
+```html
+<br />
+```
+
+```html
+<hr />
+```
+
+### Strong and Small tag
+
+```html
+<strong>I am Strong 💪</strong>
+<small>I am smol 😔</small>
+```
