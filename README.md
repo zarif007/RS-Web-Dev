@@ -80,3 +80,30 @@
 <mark>mark me</mark>
 <del>please, do not write off me :(</del>
 ```
+
+### Division tag
+
+```html
+<div>I am divided</div>
+```
+
+### List
+
+`Types of list`
+
+- Orderd list
+
+```html
+<ul>
+    <li>Like</li>
+    <li>Comment</li>
+    <li>Subscribe</li>
+</ul>
+```
+
+- unorderd list
+<ol>
+    <li>Get Admitted to BracU</li>
+    <li>Enroll in Tarc</li>
+    <li>Find Jiboner mane 💑</li>
+</ol>
