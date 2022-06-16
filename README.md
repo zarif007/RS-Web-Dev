@@ -181,6 +181,15 @@ target="_blank">Youtube</a>
 </form>
 ```
 
+### Details tag
+
+```html
+<details>
+  <summary>Please Open</summary>
+  <p>haha I got you</p>
+</details>
+```
+
 ### Input
 
 ```html
@@ -229,3 +238,15 @@ target="_blank">Youtube</a>
     <button>Submit</button>
   </form>
 ```
+
+### HTML Sementic Tags
+
+![Logo](https://www.w3schools.com/html/img_sem_elements.gif)
+
+[For more](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+### Ending
+
+![meme](https://i.imgflip.com/u9pv5.jpg)
+
+![meme](https://i.imgflip.com/3y3hxm.jpg)
