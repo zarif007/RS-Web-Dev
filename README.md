@@ -135,8 +135,8 @@
 ### Anchor tag
 
 ```html
-<a href="https://www.youtube.com/watch?v=N8YMl4Ezp4g">Youtube</a>
-<a href="https://www.youtube.com/watch?v=N8YMl4Ezp4g"
+<a href="https://www.youtube.com/">Youtube</a>
+<a href="https://www.youtube.com/"
 target="_blank">Youtube</a>
 ```
 
