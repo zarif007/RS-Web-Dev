@@ -4,8 +4,12 @@ body {
 
 .bluecolor {
     color: blue;
+    font-family: 'Fascinate', cursive;
 }
 
 #red {
-    color: red
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: large
 }

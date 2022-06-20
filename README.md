@@ -273,19 +273,6 @@ selector {
 ```
 
 
-## Styling declaration we must know
-
-### Color 
-  - ` font color (color: red) `
-  - ` Background color (background-color: red) `
-
-  ` Using Color `
-  - color name (ex. red)
-  - Hex value of color (ex. #121212)
-  - RGBA (ex. rgba(0, 5, 6, 1))
-
-
-
 ## Implementing on HTML
 
   - Inline Styling
@@ -361,8 +348,22 @@ p {
 <h1 id="red">I am Green</h1>
 ```
 
+
+## Styling declaration we must know
+
 ### Color 
+  - ` font color (color: red) `
+  - ` Background color (background-color: red) `
+
+  ` Using Color `
   - color name (ex. red)
   - Hex value of color (ex. #121212)
   - RGBA (ex. rgba(0, 5, 6, 1))
 
+
+### Font 
+  - ` Font (font-family: sans-serif) `
+  - ` Font weight (font-weight: lighter/bold/(100-900)) `
+  - ` Font size (font-size: large/small/medium/px) `
+
+  ` https://fonts.google.com/ `
