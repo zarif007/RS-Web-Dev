@@ -1,7 +1,7 @@
 # RS-Web-Dev
 
-# Class 1
-## What is HTML
+# Class 1 (HTML)
+## What is HTML 
 
 `HTML codes tells the browser how to structure the Web page`
 
@@ -250,3 +250,53 @@ target="_blank">Youtube</a>
 ![meme](https://i.imgflip.com/u9pv5.jpg)
 
 ![meme](https://i.imgflip.com/3y3hxm.jpg)
+
+
+
+# Class 2 (CSS)
+
+` CSS or Cascading Style Sheet is used to style HTML Document `
+
+![Logo](https://images-cdn.9gag.com/photo/amz44B4_700b.jpg)
+
+
+## Styling Structure
+
+` Selectors `
+  - element 
+  - class
+  - id 
+
+```css
+selector {
+  style declaration (Key (property) - Value (value))
+}
+```
+
+
+## Implementing on HTML
+
+  - Inline Styling
+  - Internal Style Sheet
+  - External Style Sheet
+
+### Inline Styling
+
+```html
+<p style="color: red" >I am Red</p>
+```
+
+### Internal Style Sheet
+
+```html
+<style>
+  p {
+    color: red
+  }
+</style>
+```
+
+### External Style Sheet
+
+` Create a file name style.css (can be anyname).css ` 
+<link rel="stylesheet" href="style.css" >
