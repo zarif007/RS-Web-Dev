@@ -263,6 +263,7 @@ target="_blank">Youtube</a>
 ## Styling Structure
 
 ` Selectors `
+  - universal
   - element 
   - class
   - id 
@@ -272,6 +273,19 @@ selector {
   style declaration (Key (property) - Value (value))
 }
 ```
+
+
+## Styling declaration we must know
+
+### Color 
+  - ` font color (color: red) `
+  - ` Background color (background-color: red) `
+
+  ` Using Color `
+  - color name (ex. red)
+  - Hex value of color (ex. #121212)
+  - RGBA (ex. rgba(0, 5, 6, 1))
+
 
 
 ## Implementing on HTML
@@ -289,11 +303,15 @@ selector {
 ### Internal Style Sheet
 
 ```html
+</head>
+
 <style>
   p {
     color: red
   }
 </style>
+
+<body>
 ```
 
 ### External Style Sheet
@@ -303,4 +321,50 @@ selector {
 ```html
 <link rel="stylesheet" href="style.css" >
 ```
+
+### Universal Selector
+
+```css
+* {
+  color: red
+}
+```
+
+### Element Selector
+
+```css
+p {
+  color: red
+}
+```
+
+### Class Selector
+
+```css
+.red {
+  color: red
+}
+```
+
+```html
+<h1 Class="red">I am Green</h1>
+<p Class="red">I am Green</p>
+```
+
+### Id Selector
+
+```css
+#red {
+  color: red
+}
+```
+
+```html
+<h1 id="red">I am Green</h1>
+```
+
+### Color 
+  - color name (ex. red)
+  - Hex value of color (ex. #121212)
+  - RGBA (ex. rgba(0, 5, 6, 1))
 
