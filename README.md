@@ -299,4 +299,8 @@ selector {
 ### External Style Sheet
 
 ` Create a file name style.css (can be anyname).css ` 
+
+```html
 <link rel="stylesheet" href="style.css" >
+```
+
