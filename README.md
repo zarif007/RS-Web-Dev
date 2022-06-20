@@ -249,8 +249,6 @@ target="_blank">Youtube</a>
 
 ![meme](https://i.imgflip.com/u9pv5.jpg)
 
-![meme](https://i.imgflip.com/3y3hxm.jpg)
-
 
 
 # Class 2 (CSS)
@@ -347,8 +345,8 @@ p {
 ```
 
 ```html
-<h1 Class="red">I am Green</h1>
-<p Class="red">I am Green</p>
+<h1 Class="red">I am Red</h1>
+<p Class="red">I am Red</p>
 ```
 
 ### Id Selector
