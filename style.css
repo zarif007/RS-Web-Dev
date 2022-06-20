@@ -4,7 +4,12 @@ body {
 
 .bluecolor {
     color: blue;
+    background-color: red;
     font-family: 'Fascinate', cursive;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    line-height: 60px;
 }
 
 #red {
@@ -12,4 +17,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: large
+}
+
+ul {
+    list-style:square
 }

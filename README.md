@@ -362,8 +362,20 @@ p {
 
 
 ### Font 
-  - ` Font (font-family: sans-serif) `
+  - ` Font Style (font-family: sans-serif) `
   - ` Font weight (font-weight: lighter/bold/(100-900)) `
   - ` Font size (font-size: large/small/medium/px) `
 
   ` https://fonts.google.com/ `
+
+
+### Text 
+  - ` Text Position (text-align: center) `
+  - ` Distance between Letter (letter-spacing: 10px;) `
+  - ` Distance between Words (word-spacing: 10px;) `
+  - ` Distance between Lines (line-height: 60px;) `
+
+  ` https://fonts.google.com/ `
+
+### List 
+  - ` List Style (list-style: disc/square/circle/none) `
