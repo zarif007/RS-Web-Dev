@@ -251,7 +251,7 @@ target="_blank">Youtube</a>
 
 
 
-# Class 2 (CSS)
+# Class 2 (CSS 1.0)
 
 ` CSS or Cascading Style Sheet is used to style HTML Document `
 
@@ -370,12 +370,62 @@ p {
 
 
 ### Text 
-  - ` Text Position (text-align: center) `
+  - ` Text Position (text-align: center/left/right) `
   - ` Distance between Letter (letter-spacing: 10px;) `
   - ` Distance between Words (word-spacing: 10px;) `
   - ` Distance between Lines (line-height: 60px;) `
 
-  ` https://fonts.google.com/ `
 
 ### List 
   - ` List Style (list-style: disc/square/circle/none) `
+
+
+### Table 
+
+```css
+th, td {
+    border: 1px solid blue;
+    font-size: 60px;
+    height: 100px;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+    width: 70%;
+}
+```
+
+
+## CSS Box Model
+
+![Logo](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/box_model.png)
+
+
+### Demo
+```css
+.box {
+    border: 1px solid blue; (left/top/bottom/right)
+    border-radius: 10px;
+    padding: 10px; (left/top/bottom/right)
+    margin: 10px; (left/top/bottom/right)
+}
+```
+
+## Spcificity
+
+` element < class < id < inline styling < !important `
+
+## Display
+
+- Block (Takes the whole width ex. div, h1, p)
+- Inline (Takes as mush as needed ex. span)
+
+```css
+  display: inline/block/none
+```

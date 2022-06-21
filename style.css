@@ -1,5 +1,6 @@
 body {
-    color:  green 
+    color:  green;
+    background-color: bisque;
 }
 
 .bluecolor {
@@ -19,6 +20,35 @@ body {
     font-size: large
 }
 
+.red {
+    background-color: red;
+    display: block;
+}
+
 ul {
     list-style:square
+}
+
+.box {
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px
+}
+
+th, td {
+    border: 1px solid blue;
+    font-size: 60px;
+    height: 100px;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+    width: 70%;
 }
