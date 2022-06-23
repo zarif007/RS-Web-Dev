@@ -260,17 +260,17 @@ target="_blank">Youtube</a>
 
 ## Styling Structure
 
-` Selectors `
-  - universal
-  - element 
-  - class
-  - id 
-
 ```css
 selector {
   style declaration (Key (property) - Value (value))
 }
 ```
+
+` Selectors `
+  - universal
+  - element 
+  - class
+  - id 
 
 
 ## Implementing on HTML
@@ -380,6 +380,15 @@ p {
   - ` List Style (list-style: disc/square/circle/none) `
 
 
+## Display
+
+- Block (Takes the whole width ex. div, h1, p)
+- Inline (Takes as mush as needed ex. span)
+
+```css
+  display: inline/block/none
+```  
+
 ### Table 
 
 ```css
@@ -421,11 +430,12 @@ table {
 
 ` element < class < id < inline styling < !important `
 
-## Display
 
-- Block (Takes the whole width ex. div, h1, p)
-- Inline (Takes as mush as needed ex. span)
+## Hover 
 
 ```css
-  display: inline/block/none
+selector:hover {
+    style declaration
+}
 ```
+
