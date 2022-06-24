@@ -1,0 +1,57 @@
+* {
+
+    color: red;
+}
+
+h1, h2 {
+    color: aqua;
+}
+
+
+
+.red-font {
+    color: red;
+}
+
+#blue-font {
+    color: blue;
+}
+
+.font-style {
+
+    font-weight: 100;
+
+    font-size: 40px;
+
+    text-align: center;
+
+    letter-spacing: 5px;
+
+    word-spacing: 20px;
+
+    line-height: 100px;
+}
+
+ul {
+    list-style: upper-alpha;
+}
+
+p {
+    display: inline;
+}
+
+
+span {
+    display: block;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+
+    width: 80%;
+    text-align: center;
+}

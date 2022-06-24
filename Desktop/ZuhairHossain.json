@@ -1,0 +1,39 @@
+{
+    "name": "Syed Zuhair Hossain",
+    "type": "personal",
+    "bio": "Open Source Enthusiast!",
+    "avatar": "https://github.com/ZuhairHossain.png",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/ZuhairHossain",
+        "icon": "github"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/zuhairhossain",
+        "icon": "twitter"
+      },
+      {
+        "name": "Check out my website",
+        "url": "https://zuhairhossain.github.io/",
+        "icon": "globe"
+      }
+    ],
+    "milestones": [
+      {
+        "title": "Started Data Structure and Algorithms",
+        "date": "January 2020",
+        "icon": "Book",
+        "color": "blue",
+        "description": "Started Problem Solving"
+      },
+      {
+        "title": "Started Open Source",
+        "date": "January 2021",
+        "icon": "Github",
+        "color": "green",
+        "description": "Started Contribution to Open Source"
+      }
+    ]
+  }
