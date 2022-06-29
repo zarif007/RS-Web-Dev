@@ -64,3 +64,19 @@ table {
     padding: 20px;
     margin: 40px;
 }
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-end;
+}
+
+.boxes div {
+    background-color: aqua;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+}
+

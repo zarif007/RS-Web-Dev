@@ -416,6 +416,8 @@ table {
 ![Logo](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/box_model.png)
 
 
+![Logo](https://www.messenger.com/messenger_media/?thread_id=100028718222452&attachment_id=1429462294185746&message_id=mid.%24cAAAADX0GUBCH4EqWwGBrwVEplIM4)
+
 ### Demo
 ```css
 .box {
@@ -439,3 +441,37 @@ selector:hover {
 }
 ```
 
+
+# Class 3 (CSS 2.0)
+
+## Flex Box
+`The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure`
+
+### Demo 
+
+```css
+.boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxes div {
+    background-color: aqua;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+}
+
+.box-1{
+    flex: 2;
+}
+.box-2{
+    flex: 1;
+}
+.box-3{
+    flex: 1;
+}
+```
