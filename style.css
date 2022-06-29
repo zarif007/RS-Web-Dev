@@ -83,3 +83,36 @@ table {
     text-align: center;
 }
 
+img {
+    width: 30%;
+}
+
+@media (max-width: 480px) { 
+    * {
+        background-color: aqua;
+    }
+
+    img {
+        display: none;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) { 
+    * {
+        background-color: blue;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1279px) { 
+    * {
+        background-color: red;
+    }
+}
+
+@media (min-width: 1280px) { 
+    * {
+        background-color: gold;
+    }
+}

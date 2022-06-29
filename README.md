@@ -481,3 +481,49 @@ selector:hover {
 ## Media Query 
 
 ![Logo](https://www.bitdegree.org/learn/storage/media/images/3a40a9ef-ab2c-4c9d-89e8-b5c50315042d.png)
+
+
+` Structure `
+```css
+@media (Minimum width) and (Maximum width) { 
+    styling block
+    styling block
+    styling block
+    ...
+}
+
+```
+
+` Demo `
+
+```css
+@media (min-width: 0px) and (max-width: 480px) { 
+    * {
+        background-color: aqua;
+    }
+
+    img {
+        display: none;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) { 
+    * {
+        background-color: blue;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1279px) { 
+    * {
+        background-color: red;
+    }
+}
+
+@media (min-width: 1280px) { 
+    * {
+        background-color: gold;
+    }
+}
+```
