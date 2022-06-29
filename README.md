@@ -407,16 +407,19 @@ table {
     text-align: center;
     vertical-align: middle;
     width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
 ```
+
+
+
+# Class 3 (CSS 2.0)
 
 
 ## CSS Box Model
 
 ![Logo](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/box_model.png)
-
-
-![Logo](https://i.ibb.co/vYDpmhz/287746934-708515600584828-5717172785757293699-n.jpg)
 
 ### Demo
 ```css
@@ -427,6 +430,8 @@ table {
     margin: 10px; (left/top/bottom/right)
 }
 ```
+
+![Logo](https://i.ibb.co/vYDpmhz/287746934-708515600584828-5717172785757293699-n.jpg)
 
 ## Spcificity
 
@@ -440,9 +445,6 @@ selector:hover {
     style declaration
 }
 ```
-
-
-# Class 3 (CSS 2.0)
 
 ## Flex Box
 `The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure`
@@ -475,3 +477,7 @@ selector:hover {
     flex: 1;
 }
 ```
+
+## Media Query 
+
+![Logo](https://www.bitdegree.org/learn/storage/media/images/3a40a9ef-ab2c-4c9d-89e8-b5c50315042d.png)
