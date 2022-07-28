@@ -480,7 +480,7 @@ selector:hover {
 
 ## Media Query 
 
-![Logo](https://www.bitdegree.org/learn/storage/media/images/3a40a9ef-ab2c-4c9d-89e8-b5c50315042d.png)
+![Logo](https://builtvisible.com/wp-content/uploads/2017/07/common-breakpoints.jpg)
 
 
 ` Structure `
