@@ -4,9 +4,10 @@
 
 .parent {
     display: flex;
-    margin-top: 100px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+
+    margin-top: 100px;
 }
 
 .child-1 {
@@ -22,4 +23,42 @@
 
 span {
     color: #E7F6F2;
+}
+
+@media (min-width: 0px) and (max-width: 480px) { 
+    .parent {
+        flex-direction: column;
+    }
+
+    .child-1 {
+        font-size: 40px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) { 
+    .parent {
+        flex-direction: column;
+    }
+
+    .child-1 {
+        font-size: 50px;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1279px) { 
+    .parent {
+        flex-direction: row;
+    }
+
+    .child-1 {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 1280px) { 
+    .parent {
+        flex-direction: row;
+    }
 }
