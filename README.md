@@ -537,8 +537,14 @@ selector:hover {
 ``` combination: https://colorhunt.co/ ```
 
 ` Emoji: `
-``` https://emojipedia.org/ ```
+``` 
+https://emojipedia.org/ 
+```
 
 
 ## Bootstrap 5
 
+` Installation `
+``` 
+https://getbootstrap.com/docs/5.2/getting-started/download/ 
+```
