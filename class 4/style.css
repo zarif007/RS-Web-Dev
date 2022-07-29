@@ -1,0 +1,95 @@
+/* @media (min-width: 0px) and (max-width: 480px) {
+    * {
+        background-color: aqua;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    * {
+        background-color: red;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1279px) {
+    * {
+        background-color: black
+    }
+}
+
+@media (min-width: 1280px) {
+    * {
+        background-color: yellowgreen
+    }
+}
+ */
+
+* {
+    background-color: #1A1A40;
+    justify-content: space-around;
+
+}
+
+
+.parent {
+    display: flex;
+    margin-top: 150px;
+    align-items: center;
+}
+
+.child-1 {
+    color: #FA58B6;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.child-2 {
+    width: 400px;
+    border-radius: 30px;
+}
+
+span {
+    color: darkturquoise;
+}
+
+@media (min-width: 0px) and (max-width: 480px) { 
+    .parent {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .child-1 {
+        font-size: 40px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) { 
+    .parent {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .child-1 {
+        font-size: 50px;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1279px) { 
+    .parent {
+        flex-direction: row;
+        margin-top: 20px;
+    }
+
+    .child-1 {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 1280px) { 
+    .parent {
+        flex-direction: row;
+    }
+}
