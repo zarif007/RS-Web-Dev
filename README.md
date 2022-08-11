@@ -607,3 +607,30 @@ https://getbootstrap.com/docs/5.2/getting-started/download/
 ``` 
 https://getbootstrap.com/docs/5.2/getting-started/introduction/ 
 ```
+
+` Navbar: `
+``` 
+https://getbootstrap.com/docs/5.2/components/navbar/#how-it-works
+```
+
+` Carousel: `
+``` 
+https://getbootstrap.com/docs/5.2/components/carousel/
+```
+
+` List: `
+``` 
+https://getbootstrap.com/docs/5.2/components/list-group/
+```
+
+` Card: `
+``` 
+https://getbootstrap.com/docs/5.2/components/card/
+```
+
+
+` Footer: `
+``` 
+https://mdbootstrap.com/docs/standard/navigation/footer/
+```
+
