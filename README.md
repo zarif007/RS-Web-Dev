@@ -601,7 +601,7 @@ https://getbootstrap.com/docs/5.2/getting-started/download/
 <p Class="my-4 bg-success">Margin Class</p>
 ```
 
-# Class 5 (Bootstrap 5)
+# Class 5 & 6 (Bootstrap 5)
 
 ` Link: `
 ``` 
