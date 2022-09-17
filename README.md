@@ -638,6 +638,8 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 
 ![Logo](https://i.ibb.co/qrWyS1T/Untitleeeeed-2022-09-15-1921.png)
 
+![Logo](Untitleeeeed-2022-09-15-1921.png)
+
 ## Immediate Next step (Take either) 👇
 ```
 1. Learn Python > Learn Django > Develop few fullstack WebApps with Django, HTML, CSS, Bootstrap
@@ -649,3 +651,7 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 ` Take 4 - 6 months to follow a step. Follow YouTube videos to develop first few projects  `
 
 ## Pro tips 💡
+```
+1. Expolore stuffs but Learn one thing at a time. 
+2. No need to master  
+````
