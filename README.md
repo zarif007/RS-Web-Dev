@@ -636,8 +636,6 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 
 # Roadmap / what's next 🛣️
 
-![Logo](https://i.ibb.co/qrWyS1T/Untitleeeeed-2022-09-15-1921.png)
-
 ![Logo](Untitleeeeed-2022-09-15-1921.png)
 
 ## Immediate Next step (Take either) 👇
@@ -653,5 +651,5 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 ## Pro tips 💡
 ```
 1. Expolore stuffs but Learn one thing at a time. 
-2. No need to master  
+2. No need to master anything at this moment. 
 ````
