@@ -643,7 +643,7 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 1. Learn Python > Learn Django > Develop few fullstack WebApps with Django, HTML, CSS, Bootstrap
 ```
 ```
-2. Learn JavaScript(ES6) > Learn ReactJs > Develop few frontend WebApps with ReatJS, HTML, CSS, Bootstrap
+2. Learn JavaScript(ES6) > Learn ReactJs > Develop few frontend WebApps with ReactJS, HTML, CSS, Bootstrap
 ```
 
 ` Take 4 - 6 months to follow a step. Follow YouTube videos to develop first few projects  `
