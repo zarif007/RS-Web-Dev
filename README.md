@@ -650,6 +650,9 @@ https://mdbootstrap.com/docs/standard/navigation/footer/
 
 ## Pro tips 💡
 ```
-1. Expolore stuffs but Learn one thing at a time. 
+1. Explore stuffs but Learn one thing at a time. 
 2. No need to master anything at this moment. 
+3. Learn by doing projects.
+4. Develop as much projects as you can.
+5. No need to optimize anything at the first try. 
 ````
