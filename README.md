@@ -634,3 +634,18 @@ https://getbootstrap.com/docs/5.2/components/card/
 https://mdbootstrap.com/docs/standard/navigation/footer/
 ```
 
+# Roadmap / what's next 🛣️
+
+![Logo](https://i.ibb.co/qrWyS1T/Untitleeeeed-2022-09-15-1921.png)
+
+## Immediate Next step (Take either) 👇
+```
+1. Learn Python > Learn Django > Develop few fullstack WebApps with Django, HTML, CSS, Bootstrap
+```
+```
+2. Learn JavaScript(ES6) > Learn ReactJs > Develop few frontend WebApps with ReatJS, HTML, CSS, Bootstrap
+```
+
+` Take 4 - 6 months to follow a step. Follow YouTube videos to develop first few projects  `
+
+## Pro tips 💡
