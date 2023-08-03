@@ -1,0 +1,33 @@
+.box {
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxes div {
+    background-color: aqua;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+}
+
+.box-1 {
+    flex: 2;
+}
+
+.box-2 {
+    flex: 3;
+}
+
+.box-3 {
+    flex: 1;
+}
