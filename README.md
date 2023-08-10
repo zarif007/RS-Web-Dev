@@ -470,7 +470,7 @@ selector:hover {
 }
 ```
 
-# Class 4 (CSS 3.0)
+# Class 5 (CSS 3.0)
 
 ## Media Query
 
@@ -534,78 +534,71 @@ combination: https://colorhunt.co/
 https://emojipedia.org/
 ```
 
-## Bootstrap 5
+## Tailwind CSS
 
 `Installation`
 
 ```
-https://getbootstrap.com/docs/5.2/getting-started/download/
+https://tailwindcss.com/docs/installation/play-cdn
 ```
 
-`CSS`
 
-```css
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-```
-
-`JavaScript`
-
-```css
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-```
-
-### Container
-
-`In Bootstrap, container is used to set the content's margins dealing with the responsive behaviors of your layout.`
-
-```html
-<div class="container">Container</div>
-<div class="container-fluid">Container Fluid</div>
-```
 
 ### Color
 
-![Logo](https://i.ibb.co/HpYnYTd/bt5.png)
+```
+https://tailwindcss.com/docs/customizing-colors
+```
+```html
+<span Class="bg-red-500 text-blue-500">Color Class</span>
+```
 
 ### Border
 
-`side => border-top/bottom/start/end`
-`unit => border-(1-5)/pill/cicrle`
+`side => border-t/b/l/r/x/y`
+`unit => border-(0 - 8)`
 
 ```html
-<span Class="border border-primary border-4 rounded">Border Class</span>
+<span Class="border-2 border-blue-500">Border Class</span>
 ```
 
 ### Padding
 
-`side => p-t/b/s/e/x/y`
-`unit => p-(1-5)`
+`side => pt/b/l/r/x/y`
+`unit => p-(0-96)`
 
 ```html
-<span Class="p-3 bg-success">Padding Class</span>
+<span Class="p-3">Padding Class</span>
 ```
 
 ### Margin
 
-`side => m-t/b/s/e/x/y`
-`unit => m-(1-5)`
+`side => mt/b/l/r/x/y`
+`unit => m-(0-96)`
 
 ```html
-<p class="my-4 bg-success">Margin Class</p>
+<p class="m-4">Margin Class</p>
 ```
 
-# Class 5 & 6 (Bootstrap 5)
+# Class 6 (Tailwind CSS)
 
-`Link:`
 
+`Some resources`
 ```
-https://getbootstrap.com/docs/5.2/getting-started/introduction/
+https://flowbite.com/
+https://tailwindcomponents.com/
 ```
 
 `Navbar:`
 
 ```
-https://getbootstrap.com/docs/5.2/components/navbar/#how-it-works
+https://flowbite.com/docs/components/navbar/
+```
+
+`Gallery:`
+
+```
+https://flowbite.com/docs/components/gallery/
 ```
 
 `Carousel:`
@@ -623,7 +616,7 @@ https://getbootstrap.com/docs/5.2/components/list-group/
 `Card:`
 
 ```
-https://getbootstrap.com/docs/5.2/components/card/
+https://flowbite.com/docs/components/card/
 ```
 
 `Footer:`
