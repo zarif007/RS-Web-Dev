@@ -587,12 +587,13 @@ https://tailwindcss.com/docs/customizing-colors
 ```
 https://flowbite.com/
 https://tailwindcomponents.com/
+https://tailblocks.cc/
 ```
 
 `Navbar:`
 
 ```
-https://flowbite.com/docs/components/navbar/
+https://tailblocks.cc/
 ```
 
 `Gallery:`
@@ -601,16 +602,11 @@ https://flowbite.com/docs/components/navbar/
 https://flowbite.com/docs/components/gallery/
 ```
 
-`Carousel:`
+
+`Map:`
 
 ```
-https://getbootstrap.com/docs/5.2/components/carousel/
-```
-
-`List:`
-
-```
-https://getbootstrap.com/docs/5.2/components/list-group/
+https://tailblocks.cc/
 ```
 
 `Card:`
@@ -619,11 +615,6 @@ https://getbootstrap.com/docs/5.2/components/list-group/
 https://flowbite.com/docs/components/card/
 ```
 
-`Footer:`
-
-```
-https://mdbootstrap.com/docs/standard/navigation/footer/
-```
 
 # Roadmap / what's next 🛣️
 
