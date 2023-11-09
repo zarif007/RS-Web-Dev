@@ -142,6 +142,9 @@ You can also use type="I" and type="i" to create a numbered list with Roman nume
 ### Image Tag
 
 ```html
+<!-- Direct link -->
+<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bored-ape-nft.jpg" width="300" height="300" alt="boredape" />
+<!-- Relative link -->
 <img src="images/html1.jpg" width="200" height="200" alt="dp" />
 ```
 
